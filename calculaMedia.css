@@ -1,0 +1,19 @@
+body {
+    background-color:rgb(221, 184, 129);
+    font: normal 50px Garamond;
+}
+
+header {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+section {
+    font: 30px garamond;
+    text-align: center;
+}
+
+select {
+    width: 80px;
+}
